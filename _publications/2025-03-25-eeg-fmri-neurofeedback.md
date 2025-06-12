@@ -6,6 +6,7 @@ permalink: /publication/2025-03-25-eeg-fmri-neurofeedback
 excerpt: 'This paper is about post-stroke rehabilitation using bimodal neurofeedback.'
 date: 2025-03-25
 venue: 'Journal of NeuroEngineering and Rehabilitation'
+link: 'https://link.springer.com/article/10.1186/s12984-025-01598-9'
 paperurl: 'https://inria.hal.science/hal-05007645v1/file/Butet_et_al-2025-Journal_of_NeuroEngineering_and_Rehabilitation.pdf'
 citation: 'Butet et al. (2025). &quot;EEG-fMRI neurofeedback versus motor imagery after stroke, a randomized controlled trial.&quot; <i>Journal of NeuroEngineering and Rehabilitation</i>. 22(67).'
 ---
