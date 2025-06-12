@@ -1,15 +1,18 @@
 ---
 permalink: /
-title: "Quentin Duché (Neurinfo)"
+title: "Quentin Duché"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+![UR](https://www.daeu.fr/app/uploads/2018/11/UNIRENNES_LOGOnoir_RVB.png){: width="100px"}
+![Neurinfo](https://www.incr.fr/wp-content/uploads/2012/08/images-300x104.png){: width="100px"}
+![Empenn](https://avatars.githubusercontent.com/u/5993117?s=280&v=4){: width="50px"}
+
 I am a research enginneer of the University of Rennes working at the [Neurinfo platform](https://project.inria.fr/neurinfo/fr/) and in the [Empenn research team](https://team.inria.fr/empenn/) (Inria, Rennes).
 My mission is to provide solutions for processing magnetic resonance imaging (MRI) data sets for research projects. I am particularly involved in functional MRI related projects.
-
 
 ## Research interests
 - fMRI image analysis
