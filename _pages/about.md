@@ -7,8 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am research enginneer of the University of Rennes working at the [Neurinfo platform](https://project.inria.fr/neurinfo/fr/) and in the [Empenn research team](https://team.inria.fr/empenn/) (Inria, Rennes).
+I am a research enginneer of the University of Rennes working at the [Neurinfo platform](https://project.inria.fr/neurinfo/fr/) and in the [Empenn research team](https://team.inria.fr/empenn/) (Inria, Rennes).
+My mission is to provide solutions for processing magnetic resonance imaging (MRI) data sets for research projects. I am particularly involved in functional MRI related projects.
 
+
+## Research interests
+- fMRI image analysis
+- BOLD data quality control
+- Anatomical imaging
+- Neurorehabilitation
+- Partial volume estimation
+- Multimodal imaging
+- Neurofeedback
+- Stroke
+- Multiple sclerosis
+
+## Collective responsibilities
+- Member of the [SFRMBM 2025](https://sfrmbm2025.sciencesconf.org/) organisation commitee
 
 ## Short bio
 - 2021-now Research Engineer, University of Rennes, France
