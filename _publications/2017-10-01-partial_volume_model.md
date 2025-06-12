@@ -3,7 +3,7 @@ title: "Partial volume model for brain MRI scan using MP2RAGE"
 collection: publications
 category: manuscripts
 permalink: /publication/2017-10-01-partial-volume-model
-excerpt: 'Trouver un commentaire à faire'
+excerpt: 'Proposition of a physics-informed partial volume model for MP2RAGE scans'
 date: 2017-10-01
 venue: 'Human Brain Mapping'
 slidesurl: 

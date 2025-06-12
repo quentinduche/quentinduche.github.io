@@ -3,7 +3,7 @@ title: "EEG-fMRI neurofeedback versus motor imagery after stroke, a randomized c
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-25-eeg-fmri-neurofeedback
-excerpt: 'This paper is about post-stroke rehabilitation using bimodal neurofeedback.'
+excerpt: 'This paper is about post-stroke rehabilitation using bimodal fMRI-EEG neurofeedback.'
 date: 2025-03-25
 venue: 'Journal of NeuroEngineering and Rehabilitation'
 link: 'https://link.springer.com/article/10.1186/s12984-025-01598-9'

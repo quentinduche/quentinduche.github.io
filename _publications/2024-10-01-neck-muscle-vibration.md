@@ -3,7 +3,7 @@ title: "Neck muscle vibration and prism adaptation fail to improve balance distu
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-01-neck-muscle-vibration
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 
 date: 2024-10-01
 venue: 'Annals of Physical and Rehabilitation Medicine'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1877065724000551?via%3Dihub'
