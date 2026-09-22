@@ -1,5 +1,6 @@
-# Student intern
-- Valentin Septiers
-- Solène Painchaud : January to August 2024, "Bases neurales de la perception spatiale du corps dans l’espace après accident vasculaire cérébral"
-- Sébastien Resche-Rigon co-supervised with Elise Bannier "Mise à jour de tâches d’IRM fonctionnelle d’activation pour cartographier les fonctions primaires avant une opération"
-- Célia Bouvier : March to 
+# Internships
+- 2023 Valentin Septiers :  co-supervised with Elise Bannier
+- 2023 Sébastien Resche-Rigon co-supervised with Elise Bannier "Mise à jour de tâches d’IRM fonctionnelle d’activation pour cartographier les fonctions primaires avant une opération"
+- 2024 Solène Painchaud : January to August 2024, "Bases neurales de la perception spatiale du corps dans l’espace après accident vasculaire cérébral"
+- 2025 Célia Bouvier : co-supervised with Elise Bannier and Gabriel Robert (March to August 2025) : "Modélisation de la croissance latente et développement cérébral – Paramètres d'imagerie par résonance magnétique et corrélation avec la consommation d'alcool chez de jeunes adultes en bonne santé"
+- 2026 Odile Minervini : co-supervised with Elise Bannier and Gabriel Robert (January to August 2026) : "Modélisation de la croissance latente et développement cérébral – Paramètres d'imagerie par résonance magnétique et corrélation avec la consommation d'alcool chez de jeunes adultes en bonne santé"
